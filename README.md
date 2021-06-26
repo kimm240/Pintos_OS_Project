@@ -44,7 +44,7 @@ _‘utils/’_ These files may come in handy if you decide to try working with P
 [Reference Link: https://web.stanford.edu/class/cs140/projects/pintos/pintos.pdf]
 
 ## _Progress Result_
-Project1, 2 구현 완료. \n
+Project1, 2 구현 완료.
 자세한 사항은 보고서 참고. 
 | What? | Where? |
 | ------ | ------ |
