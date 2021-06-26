@@ -1,4 +1,3 @@
-# Pintos
 ## _Introduction_
 Pintos는 80x86 architecutre을 위한 간단한 operating system framework이다. pintos는 kernel threads, loading, user program, file system이 매우 간단한 방법으로 구현돼있다. 이 프로젝트에서는, 해당 부분을 strengthen해야 한다. 
 
@@ -42,7 +41,8 @@ _‘misc/’_
 _‘utils/’_ These files may come in handy if you decide to try working with Pintos on your own machine. Otherwise, you can ignore them.
 
 
-[Reference]: https://web.stanford.edu/class/cs140/projects/pintos/pintos.pdf
+[Reference Link: https://web.stanford.edu/class/cs140/projects/pintos/pintos.pdf]
 
 ## _Progress Result_
-Project1, 2 구현 완료
+Project1, 2 구현 완료.
+자세한 사항은 보고서 참고.
