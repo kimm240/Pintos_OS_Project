@@ -1,26 +1,26 @@
 ## _Introduction_
 Pintos는 80x86 architecutre을 위한 간단한 operating system framework이다. pintos는 kernel threads, loading, user program, file system이 매우 간단한 방법으로 구현돼있다. 이 프로젝트에서는, 해당 부분을 strengthen해야 한다. 
 
-## _About?_
+## _About File_
 _‘threads/’_
-Source code for the base kernel, which you will modify starting in project 1.
+Source code for the base kernel, which you will modify starting in _project 1_.
 
 _‘userprog/’_
-Source code for the user program loader, which you will modify starting with project 2.
+Source code for the user program loader, which you will modify starting with _project 2_.
 
 _‘vm/’_ 
-An almost empty directory. You will implement virtual memory here in project 3.
+An almost empty directory. You will implement virtual memory here in _project 3_.
 
 _‘filesys/’_
 Source code for a basic file system. You will use this file system starting with
-project 2, but you will not modify it until project 4.
+_project 2_, but you will not modify it until _project 4_.
 
 _‘devices/’_
-Source code for I/O device interfacing: keyboard, timer, disk, etc. You will modify the timer implementation in project 1. Otherwise you should have no need to change this code.
+Source code for I/O device interfacing: keyboard, timer, disk, etc. You will modify the timer implementation in _project 1_. Otherwise you should have no need to change this code.
 
 _‘lib/’_
-An implementation of a subset of the standard C library. The code in this directory is compiled into both the Pintos kernel and, starting from project
-2, user programs that run under it. In both kernel code and user programs,
+An implementation of a subset of the standard C library. The code in this directory is compiled into both the Pintos kernel and, starting from _project
+2_, user programs that run under it. In both kernel code and user programs,
 headers in this directory can be included using the #include <...> notation.
 You should have little need to modify this code.
 
@@ -35,7 +35,7 @@ programs, headers in this directory can be included using the #include <...>
 notation.
 
 _‘examples/’_
-Example user programs for use starting with project 2.
+Example user programs for use starting with _project 2_.
 
 _‘misc/’_
 _‘utils/’_ These files may come in handy if you decide to try working with Pintos on your own machine. Otherwise, you can ignore them.
